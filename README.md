@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NaveenKumarJadi
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...JRTP (JAVA REAL TIME PROJECT)
+- 🌱 I’m currently learning ...DOCKER & K8s
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me >> naveenkumarjadi2005@gmail.com
 
